@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Essentials
 published: true
 ---
 The Essentials.
@@ -17,4 +17,3 @@ Favorite Books: Animal Farm, Percy Jackson and the Lightning Thief, Strangers fr
 Favorite Movies: Gladiator, Interstellar, The Truman Show, and Pi 
 
 Favorite Artists: Frank Ocean and Kid Cudi
-
