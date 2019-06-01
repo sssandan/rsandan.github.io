@@ -4,9 +4,6 @@ title: About me
 subtitle: The Essentials
 published: true
 ---
-The Essentials.
-
-
 My name is Ryan Sandan. I am currently 20 years old and I go to Orange Coast College. 
 It's my second year as a Computer Science major there and I'm planning to apply what I learn in the classroom in the real world. 
 
