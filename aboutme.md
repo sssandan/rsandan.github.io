@@ -2,15 +2,19 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
+The Essentials.
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Ryan Sandan. I am currently 20 years old and I go to Orange Coast College. 
+It's my second year as a Computer Science major there and I'm planning to apply what I learn in the classroom in the real world. 
 
-What else do you need?
+Hobbies: Basketball, Hiking, and going to the beach!!
 
-### my history
+Favorite Books: Animal Farm, Percy Jackson and the Lightning Thief, Strangers from a Different Shore, and The Strange Case of Dr. Jekyll and Mr. Hyde
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Favorite Movies: Gladiator, Interstellar, The Truman Show, and Pi 
+
+Favorite Artists: Frank Ocean and Kid Cudi
+
