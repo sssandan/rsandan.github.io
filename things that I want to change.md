@@ -1,6 +1,0 @@
-- Add an avatar
-- figuring out how to choose a jpg image.
-- Adding a table to show skills
-- fixing up my sidebar links
-- adding a hyperlink 
-- changing the background and colors to something better and less basic.
