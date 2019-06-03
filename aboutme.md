@@ -11,8 +11,13 @@ I'm 20 years old and I go to Orange Coast College for Computer Science.
 My dream is to work and travel for the NBA alongside a professional team preferably the Warriors doing something computer-science related. 
 
 
-- What I'm currently doing: 
+
+What I'm currently doing: 
 Taking 2 classes over the summer, working, and making time for friends/family! Also planning to finish my side projects and website over the summer :-)
+
+
+
+
 
 
 
