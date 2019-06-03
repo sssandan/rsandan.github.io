@@ -2,9 +2,8 @@
 layout: page
 published: true
 title: Projects / Skills
+subtitle: Here are a list of projects I’ve done and currently in progress!
 ---
-Here are a list of projects I've done and currently in progress!
-
 - [MapQuest API](http://google.com/) 
   small desciption
   add picture
@@ -25,10 +24,8 @@ Here are a list of projects I've done and currently in progress!
 
 Skills that I've learned and classes I've taken:
 
-| Classes I've taken | What I learned |
-| :------ |:--- | 
-| Data Structures | N/A |
-| C++ | N/A | 
-| Java | N/A |
-| Python | N/A | 
-| Software Engineering | N/A |
+| Classes I've taken |
+| :--- |:--- | 
+| Data Structures | C++ |
+| Java | Python | 
+| Software Engineering | Discrete Structures |
