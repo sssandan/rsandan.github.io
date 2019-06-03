@@ -25,7 +25,7 @@ subtitle: Here are a list of projects I’ve done and currently in progress!
 Skills that I've learned and classes I've taken:
 
 | Classes I've taken |
-| :--- |:--- | 
+| :--- | 
 | Data Structures | C++ |
 | Java | Python | 
 | Software Engineering | Discrete Structures |
