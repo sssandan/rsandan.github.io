@@ -5,24 +5,30 @@ title: Projects / Skills
 ---
 Here are a list of projects I've done and currently in progress!
 
-
-- MapQuest API (link)
+- [MapQuest API](http://google.com/) 
   small desciption
   add picture
 
-- Quizzler (adapted from Udemy) (link)
+- [Quizzler (adapted from Udemy)](http://google.com/) 
   small desciption
   add picture
   
-- Destini (adapted from Udemy) (link)
+- [Destini (adapted from Udemy)](http://google.com/)
   small desciption
   add picture
 
 
-- My Personal Family Website (link)
+- [My Personal Family Website](google.com)
   small desciption
   add picture
 
 
 Skills that I've learned and classes I've taken:
-insert a table that shows different skills
+
+| Classes I've taken | What I learned | Previous number |
+| :------ |:--- | 
+| Data Structures | N/A |
+| C++ | N/A | 
+| Java | N/A |
+| Python | N/A | 
+| Software Engineering | N/A | 
