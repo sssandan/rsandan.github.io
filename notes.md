@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: 'Notes '
-subtitle: notes about anything and everything.
+subtitle: about anything and everything.
 ---
 thoughts that need to be typed down before I forget!
 
