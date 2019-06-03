@@ -14,7 +14,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ryan Sandan
+title: Home
 
 # Short description of your site
 description: Raptors in 6!
@@ -25,7 +25,7 @@ description: Raptors in 6!
 navbar-links:
   about me: "aboutme"
   #Resources:
-  projects and skills: "projectsandskills"
+  projects: "projects"
   experience: "exp"
   education: "edu"
   family tree: "famtree"
@@ -38,7 +38,7 @@ avatar: "/img/meinsf.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/lightskinpose2.JPG"
+# title-img: "/img/lightskinpose2.JPG"
 
 # --- Background colour/image options --- #
 
