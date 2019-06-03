@@ -4,7 +4,7 @@ title: About me
 subtitle: The Essentials
 published: true
 ---
-(insert picture at the top)
+![me](https://bit.ly/2QHwpex)
 My name is Ryan Sandan. I'm 20 years old and I go to Orange Coast College for Computer Science. 
 My dream is to work and travel for the NBA as a data scientist alongside a professional team.
 
