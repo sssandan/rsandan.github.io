@@ -4,7 +4,6 @@ published: true
 title: 'Notes '
 subtitle: notes about anything and everything.
 ---
-## IN PROGRESS
 thoughts that need to be typed down before I forget!
 
 [Data Structure notes](google.com)
