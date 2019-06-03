@@ -5,7 +5,8 @@ title: 'Notes '
 subtitle: notes about anything and everything.
 ---
 ## IN PROGRESS
-notes about anything and everything
+thoughts that need to be typed down before I forget!
+
 [Data Structure notes](google.com)
 
 I will be working on this website for myself during the summer :-) 
