@@ -6,7 +6,6 @@ published: true
 ---
 ![me](https://bit.ly/2QHwpex)
 
-
 My name is Ryan Sandan. These are my two brothers James and Mark (I'm in the middle hehe). 
 I'm 20 years old and I go to Orange Coast College for Computer Science. 
 My dream is to work and travel for the NBA alongside a professional team preferably the Warriors doing something computer-science related. 
@@ -17,6 +16,7 @@ My dream is to work and travel for the NBA alongside a professional team prefera
 | Hiking | Percy Jackson and the Lightning Thief | Interstellar |
 | Going to the Beach | Strangers from a Different Shore | The Truman Show |
 | Listening to Music | The Strange Case of Dr. Jekyll and Mr. Hyde | Pi |
+
 
  
 
