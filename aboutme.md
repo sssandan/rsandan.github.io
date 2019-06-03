@@ -13,7 +13,7 @@ My dream is to work and travel for the NBA alongside a professional team prefera
 
 
 What I'm currently doing: 
-Taking 2 classes over the summer, working, and making time for friends/family! Also planning to finish my side projects and website over the summer :-)
+Taking 3 classes over the summer (Data Structures, Intro to Linear Algebra/Differential Equations, and Public Speaking), working @ Mathnasium, and making time for friends/family since it is summer after all! Also planning to finish [my side projects] (sssandan.github.io/projectsandskills) and website over the summer :-)
 
 
 
