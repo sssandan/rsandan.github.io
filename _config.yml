@@ -30,9 +30,7 @@ navbar-links:
   education: "edu"
   familytree: "famtree"
  
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
