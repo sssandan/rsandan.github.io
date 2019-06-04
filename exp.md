@@ -10,6 +10,7 @@ subtitle: work work work work work - rihanna
 - provided quality customer service through an expert approach that is personal and prescriptive,  		attending to each individual student’s needs. 
 - Built students’ confidence and self-esteem through successful encounters and interactions with carefully selected materials. 
 - Operated in a Team Teaching environment where collaboration and communication ensure all student needs are addressed. 
+- Learn more about our team [here!](https://www.mathnasium.com/lagunaniguel/our-team)
 
 **Barista** @ Starbucks at South Coast Plaza, Costa Mesa (April 2018 - October 2018)                          and Le Cafe Du Parc, Irvine (August 2016 - March 2017)			                         	     
 - Developed and maintained many individual connections with customers.
