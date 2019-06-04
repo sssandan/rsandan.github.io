@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Experience
+title: ''
 subtitle: work work work work work - rihanna
 ---
 						                                
