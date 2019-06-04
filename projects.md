@@ -19,15 +19,3 @@ subtitle: Here are a list of projects I’ve done and currently in progress!
 
 - [My Personal Family Website](google.com)
 Basically, the idea is that we'll have a password-protected website where family can post, share, and update pictures/videos/anything. Basically a personal Facebook. 
-
-
-Skills that I've learned and classes I've taken:
-
-| Classes I've taken |
-| :--- | 
-| Data Structures | 
-| C++ |
-| Java | 
-| Python | 
-| Software Engineering | 
-| Discrete Structures |
