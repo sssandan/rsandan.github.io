@@ -22,7 +22,7 @@ Taking 3 classes over the summer (Data Structures, Intro to Linear Algebra/Diffe
 
 
 | Hobbies | Favorite Books | Favorite Movies | Favorite Artists | Favorite TV Shows |
-| :------ |:--- | :--- | :---- | :---- |
+| :------ |:----- | :--- | :---- | :---- |
 | Basketball | Animal Farm | Gladiator | **Frank Ocean** (all time)| Peaky Blinders |
 | Hiking | Percy Jackson and the Lightning Thief | Interstellar | Kid Cudi | Game of Thrones |
 | Going to the Beach | Strangers from a Different Shore | The Truman Show | Travis Scott | Rick and Morty |
