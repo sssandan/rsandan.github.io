@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: ''
-subtitle: work work work work work - rihanna
+subtitle: work experience
 ---
 						                                
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
