@@ -3,7 +3,7 @@ layout: page
 published: true
 title: ''
 subtitle: Work Experience
-bigimg: /img/black.jpg
+bigimg: false
 ---
 						                                
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
