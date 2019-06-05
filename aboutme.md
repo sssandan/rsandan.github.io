@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: The Essentials
 published: true
+bigimg: /img/black.jpg
 ---
 ![me](https://bit.ly/2QHwpex)
 
