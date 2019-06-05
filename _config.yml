@@ -28,7 +28,7 @@ navbar-links:
   projects: "projects"
   experience: "exp"
   education: "edu"
-  familytree: "famtree"
+  #familytree: "famtree"
  
 
   
