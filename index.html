@@ -1,43 +1,11 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: false
+subtitle: Student | Instructor
 use-site-title: true
 published: true
-bigimg: false
+bigimg: /img/path.jpg
 ---
-<style>
-img { 
-  width: 100%; 
-}
-
-.fling-minislide {width:100%; height:0px; padding-bottom: 50%; overflow:hidden; position:relative; }
-.fling-minislide img{ position:absolute; animation:fling-minislide 20s infinite; opacity:0; width: 100%; height: auto;}
-
-@keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}} 
-.fling-minislide img:nth-child(6){animation-delay:0s;}
-.fling-minislide img:nth-child(5){animation-delay:5s;}
-.fling-minislide img:nth-child(4){animation-delay:10s;}
-.fling-minislide img:nth-child(3){animation-delay:20s;}
-.fling-minislide img:nth-child(2){animation-delay:25s;}
-.fling-minislide img:nth-child(1){animation-delay:30s;}
- 
-</style>
-
-
-<div class="fling-minislide">
-  <img src="https://bit.ly/318BBNA" alt="Slide 6" />
-  <img src="https://bit.ly/2QIQVvB" alt="Slide 5" />
-  <img src="https://bit.ly/2WJEmpi" alt="Slide 4" />
-  <img src="https://bit.ly/2Wn0OFp" alt="Slide 3" />
-  <img src="https://bit.ly/2XmgftL" alt="Slide 2" />
-  <img src="https://bit.ly/2Wp54UR" alt="Slide 1" />
-</div>
-
-
-
-
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
