@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: ''
-subtitle: Where I studied before
+subtitle: Education
 ---
 		
         Orange Coast College, Costa Mesa, CA (2017 - Current)
