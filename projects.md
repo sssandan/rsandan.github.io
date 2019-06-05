@@ -3,6 +3,7 @@ layout: page
 published: true
 title: ''
 subtitle: Here are a list of projects I’ve done and currently in progress!
+bigimg: /img/black.jpg
 ---
 **Figuring out Heroku.... come back soon to try these out!**
 
