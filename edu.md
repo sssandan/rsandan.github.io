@@ -3,7 +3,7 @@ layout: page
 published: true
 title: ''
 subtitle: Education
-bigimg: /img/black.jpg
+bigimg: false
 ---
 		
  		
