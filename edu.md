@@ -5,7 +5,8 @@ title: ''
 subtitle: Education
 ---
 		
- 		Orange Coast College, Costa Mesa, CA (2017 - Current)
+ 		
+        Orange Coast College, Costa Mesa, CA (2017 - Current)
         Associate of Science, A.S in Computer Science 
         Associate of Arts, A.A in Liberal Arts
 
