@@ -1,8 +1,8 @@
 ---
 layout: page
 published: true
-title: ''
-subtitle: Work Experience
+title: null
+subtitle: ~ Work Experience ~
 bigimg: false
 ---
 						                                
