@@ -36,7 +36,7 @@ bigimg: false
 
 
 | **References** | Position | _Contact_ |
-| :------: |:-----: | :-----: |
+| :------ |:-----: | :-----: |
 | _Robert Whiteside_ | Center Director @ Mathnasium | Telephone: 949-360-6284 |
 | _Valerie Munoz_ | Supervisor @ Starbucks | Email: valerie.munoz@vanguard.edu |
 | _Joey Maguliman_ | Supervisor / Hiring Manager @ UNIQLO Supervisor | Email: j.maguliman@icloud.com |
