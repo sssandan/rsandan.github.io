@@ -28,7 +28,11 @@ bigimg: false
 - Tasked with achieving daily/weekly/monthly sales goals. 
 - Handled cash and card transactions at register.
 
-																							      
+					
+                    
+                    
+
+
 
 
 | **References** | Position | _Contact_ |
