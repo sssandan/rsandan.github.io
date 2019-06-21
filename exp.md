@@ -28,9 +28,10 @@ bigimg: false
 - Tasked with achieving daily/weekly/monthly sales goals. 
 - Handled cash and card transactions at register.
 
+																							      
 
-**References**
-| **References** | Position | Contact_ |
+
+| **References** | Position | _Contact_ |
 | :------ |:----- | :---- |
 | _Robert Whiteside_ | Center Director @ Mathnasium | Telephone: 949-360-6284 |
 | _Valerie Munoz_ | Supervisor @ Starbucks | Email: valerie.munoz@vanguard.edu |
