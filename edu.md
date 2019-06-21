@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Education
-subtitle: Education
+subtitle: false
 bigimg: false
 ---
 		
