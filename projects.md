@@ -4,7 +4,7 @@ published: true
 title: Projects
 subtitle: ~ currently in progress ~
 bigimg: false
-use-site-title: true
+use-site-title: false
 ---
 **Figuring out Heroku.... come back soon to try these out!**
 
