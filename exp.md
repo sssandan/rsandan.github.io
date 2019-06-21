@@ -27,3 +27,13 @@ bigimg: false
 - Maintained and replenished the sales floor appearance to Uniqlo Standard.
 - Tasked with achieving daily/weekly/monthly sales goals. 
 - Handled cash and card transactions at register.
+
+
+**References**
+| **References** | Position | Contact_ |
+| :------ |:----- | :---- |
+| _Robert Whiteside_ | Center Director @ Mathnasium | Telephone: 949-360-6284 |
+| _Valerie Munoz_ | Supervisor @ Starbucks | Email: valerie.munoz@vanguard.edu |
+| _Joey Maguliman_ | Supervisor / Hiring Manager @ UNIQLO Supervisor | Email: j.maguliman@icloud.com |
+| _Victoria Cobos_ | Supervisor @ Le Cafe Du Parc | Email: victoriaecobos@gmail.com |
+
