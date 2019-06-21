@@ -9,7 +9,7 @@ bigimg: false
 
 Hello! Thank you for visiting my website! My name is Ryan Sandan and these are my two brothers James and Mark (I'm in the middle hehe).
 I'm 20 years old and I go to Orange Coast College for Computer Science. 
-My dream is to work and travel for the NBA alongside a professional team (preferably the Warriors) doing something computer-science related. 
+My dream is to work and travel for the NBA alongside a professional team (preferably the Warriors) doing something computer-science related like a Data scientist or Statistician... 
 
 
 _What I'm currently doing_ 
