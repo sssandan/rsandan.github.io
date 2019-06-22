@@ -8,7 +8,8 @@ bigimg: false
 		
  		
         Orange Coast College, Costa Mesa, CA (2017 - Current)
-        Certificate of Achievement in Computer Science (prepares students for entry-level programming)
+        Certificate of Achievement in Computer Science
+        (prepares students for entry-level programming)
         Associate of Arts, A.A in Liberal Arts
 	    
         Woodbridge High School, Irvine, CA (2014 - 2017)
