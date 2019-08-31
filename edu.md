@@ -5,7 +5,7 @@ title: Education
 subtitle: false
 bigimg: false
 ---
-Orange Coast College, Costa Mesa, CA (2017 - Current)
+Orange Coast College, Costa Mesa, CA
 
 Current GPA: 3.58
 
