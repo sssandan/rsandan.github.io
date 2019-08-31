@@ -6,6 +6,7 @@ subtitle: false
 bigimg: false
 ---
 Orange Coast College, Costa Mesa, CA (2017 - Current)
+
 Current GPA: 3.58
 
 Relevant Coursework:
@@ -20,7 +21,3 @@ Planning to take in Spring 2020:
 - Introduction to linear algebra and differential equations
 - Physics III
 - Data Structures
-        
-        
-	    
-        
