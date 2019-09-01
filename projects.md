@@ -6,7 +6,7 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
-[Five your way](https://github.com/sssandan/findyourway) - In python, I learned a lot about dictionaries and parsing. By utilizing MapQuest's API, I created a program that can give 5 things (given at least two addresses):
+[findyourway](https://github.com/sssandan/findyourway) - In python, I learned a lot about dictionaries and parsing. By utilizing MapQuest's API, I created a program that can give 5 things (given at least two addresses):
 - directions
 - latitude/longitude
 - total time
