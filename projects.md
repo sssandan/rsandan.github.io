@@ -13,5 +13,5 @@ use-site-title: false
 - total distance
 - elevation 
 
-[GPA Calculator](https://github.com/sssandan/GPA-Calculator) - Using BlueJ (java ide), I created a GPA Calculator that looks like this (read more about it by clicking the link!): 
+[GPA Calculator](https://github.com/sssandan/GPA-Calculator) - Using BlueJ (java ide), I created a program that can calculator your Grade Point Average given the letter grade and the amount of units for each grade. You can read more about it by clicking the link~
 ![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
