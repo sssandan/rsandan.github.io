@@ -7,7 +7,7 @@ bigimg: false
 ---
 Orange Coast College, Costa Mesa, CA
 
-Current GPA: 3.58
+Current GPA: 3.60
 
 Relevant Coursework:
 - Calculus I, II, & III
