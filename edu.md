@@ -14,6 +14,7 @@ Relevant Coursework:
 - Physics I & II
 - Python Programming
 - Java Programming
+- Discrete Structures
 - C++ Programming I & II
 - Software Engineering
         
