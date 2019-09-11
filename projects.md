@@ -19,6 +19,10 @@ use-site-title: false
 [NBA Quiz](https://github.com/sssandan/NBA-Quiz) - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning swift through an iOS course in Udemy (Angela Yu and London App Brewery) I learned how to make this app through an iOS course in Udemy.com (Angela Yu and the London App Brewery). This course is awesome because I'm learning a ton of things at my own pace. I learned about:
 - the MVC (model-view-controller) pattern for designing apps
 - Labeling and views
+- class initialisation
+- 
 - Data encapsulation
 
 I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
+![nba](https://i.ibb.co/P9R6ptg/Screen-Shot-2019-09-10-at-6-48-56-PM.png)
+![anotherone](https://i.ibb.co/gycKzSf/Screen-Shot-2019-09-10-at-6-48-43-PM.png)
