@@ -17,9 +17,11 @@ use-site-title: false
 ![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
 
 [NBA Quiz](https://github.com/sssandan/NBA-Quiz) - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning swift through an iOS course in Udemy (Angela Yu and London App Brewery) This course is awesome because I'm learning a ton of things at my own pace. I learned about:
+- Swift 
+- The basics of XCode
 - the MVC (model-view-controller) pattern for designing apps
 - Labeling and views
 - class initialisation
 - Data encapsulation
 
-I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
+I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc). 
