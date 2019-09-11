@@ -20,9 +20,6 @@ use-site-title: false
 - the MVC (model-view-controller) pattern for designing apps
 - Labeling and views
 - class initialisation
-- 
 - Data encapsulation
 
 I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
-![nba](https://i.ibb.co/P9R6ptg/Screen-Shot-2019-09-10-at-6-48-56-PM.png)
-![anotherone](https://i.ibb.co/gycKzSf/Screen-Shot-2019-09-10-at-6-48-43-PM.png)
