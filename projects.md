@@ -16,4 +16,8 @@ use-site-title: false
 [GPA Calculator](https://github.com/sssandan/GPA-Calculator) - Using BlueJ (java ide), I created a program that can calculator your Grade Point Average given the letter grade and the amount of units for each grade. You can read more about it by clicking the link~
 ![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
 
-[NBA Quiz](https://github.com/sssandan/NBA-Quiz) - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning swift through an iOS course in Udemy (Angela Yu and London App Brewery), I learned how to make this app through an iOS course in Udemy.com (Angela Yu and the London App Brewery). This course is awesome because I'm learning a ton of things at my own pace. I learned about the MVC (model-view-controller) pattern for designing apps, labeling and views, data encapsulation, etc. I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
+[NBA Quiz](https://github.com/sssandan/NBA-Quiz) - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning swift through an iOS course in Udemy (Angela Yu and London App Brewery) I learned how to make this app through an iOS course in Udemy.com (Angela Yu and the London App Brewery). This course is awesome because I'm learning a ton of things at my own pace. I learned about:
+- the MVC (model-view-controller) pattern for designing apps
+- Labeling and views
+- Data encapsulation
+I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
