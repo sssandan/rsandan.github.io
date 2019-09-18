@@ -13,6 +13,8 @@ use-site-title: false
 - Total Distance
 - Elevation 
 
+(Currently working on a GUI application for it.)
+
 [GPA Calculator](https://github.com/sssandan/GPA-Calculator) - Using BlueJ (java ide), I created a program that can calculator your Grade Point Average given the letter grade and the amount of units for each grade. You can read more about it by clicking the link~
 ![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
 
@@ -24,4 +26,5 @@ use-site-title: false
 - class initialisation
 - Data encapsulation
 
-I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc). 
+I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
+
