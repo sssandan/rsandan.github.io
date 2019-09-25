@@ -13,7 +13,10 @@ use-site-title: false
 - Total Distance
 - Elevation 
 
-(Currently working on a GUI application for it.)
+//It currently looks like this (version1 using tkinter).                         
+//Still want to update and freshen up the design
+![ryansApp](https://i.ibb.co/wc9KNS4/rsz-screenshot-of-ryans-app.png)
+
 
 [GPA Calculator](https://github.com/sssandan/GPA-Calculator) - Using BlueJ (java ide), I created a program that can calculator your Grade Point Average given the letter grade and the amount of units for each grade. You can read more about it by clicking the link~
 ![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
@@ -27,4 +30,3 @@ use-site-title: false
 - Data encapsulation
 
 I still want to change some things about it. For example, I want to add an option to choose between categories (NBA Players, Playoffs, Regular Season, etc).
-
