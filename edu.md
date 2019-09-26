@@ -7,14 +7,14 @@ bigimg: false
 ---
 Orange Coast College, Costa Mesa, CA
 
-Current GPA: 3.60
+Current GPA: 3.69
 
 Relevant Coursework:
-- Calculus I, II, & III
-- Physics I & II
+- Calculus I, II, & III (in progress)
+- Physics I & II (in progress)
 - Python Programming
 - Java Programming
-- Discrete Structures
+- Discrete Structures (in progress)
 - C++ Programming I & II
 - Software Engineering
         
