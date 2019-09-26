@@ -19,6 +19,6 @@ Relevant Coursework:
 - Software Engineering
         
 Planning to take in Spring 2020:
-- Introduction to linear algebra and differential equations
+- Introduction to Linear Algebra and Differential Equations
 - Physics III
 - Data Structures
