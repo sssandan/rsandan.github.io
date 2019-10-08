@@ -6,6 +6,18 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+
+
+
+
+
 findyourway, Maps Mobile Application (October 4 - 6, 2019)
 		- using the same core for findyourway, we revamped it to be a full-fledged mobile application.
 		- made during the AT&T 5G Hackathon also hosted by Samsung and IBM
