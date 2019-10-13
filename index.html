@@ -4,8 +4,7 @@ title: Ryan Sandan
 subtitle: Student @ Orange Coast College | Instructor @ Mathnasium
 use-site-title: true
 published: true
-bigimg: /img/black.jpg 
-
+bigimg: /img/black.jpg
 ---
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -23,7 +22,9 @@ bigimg: /img/black.jpg
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-
+    
+<div id="header-big-imgs" data-num-img="48" data-img-src-1="/img/black.jpg" data-img-desc-1="Arizona, 2017" data-img-src-2="/img/black.jpg" data-img-desc-2="Arizona, 2017"></div>
+    
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
