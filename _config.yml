@@ -11,12 +11,10 @@ description: Philippians 4:13
 # List of links in the navigation bar
 navbar-links:
   about me: "aboutme"
-  #Resources:
   projects: "projects"
   resume: "exp"
   education: "edu"
-  contact: "contact"
-  get to know me!: "moretoknow"
+  contact  : "contact"
  
 
   
