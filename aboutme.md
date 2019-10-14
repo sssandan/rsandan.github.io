@@ -5,6 +5,12 @@ subtitle: The Essentials
 published: true
 bigimg: false
 ---
+Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Cal State for computer science in the fall of 2020. My dream is to work and travel for the NBA alongside a team doing something Computer Science related like a data scientist or statistician. Right now I’m looking for a company where I can apply what I learn in the classroom into applications that matter and make a difference. I'm looking for an internship that can refine my skills, as well as teach me new ones.
+
+
+
+
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,9 +66,9 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 5s;
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 5s;
 }
 
 @-webkit-keyframes fade {
@@ -103,14 +109,14 @@ img {vertical-align: middle;}
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
-  <span class="dot"></span> 
 </div>
 
 <script>
 var slideIndex = 0;
 showSlides();
 
-function showSlides() {
+function showSlides() 
+{
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
@@ -130,5 +136,3 @@ function showSlides() {
 
 </body>
 </html> 
-
-Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Cal State for computer science in the fall of 2020. My dream is to work and travel for the NBA alongside a team doing something Computer Science related like a data scientist or statistician. Right now I’m looking for a company where I can apply what I learn in the classroom into applications that matter and make a difference. I'm looking for an internship that can refine my skills, as well as teach me new ones.
