@@ -2,9 +2,13 @@
 layout: page
 title: Ryan Sandan
 subtitle: Student @ Orange Coast College | Instructor @ Mathnasium
+css: "/css/index.css"
 use-site-title: true
 published: true
-bigimg: /img/black.jpg
+bigimg:
+  - "/img/carti.jpg" : "Arizona, 2017"
+  - "/img/black.jpg" : "Arizona, 2017"
+  - "/img/carti.jpg" : "Winter Sunset, Muskeg, 2017"
 ---
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -22,47 +26,7 @@ bigimg: /img/black.jpg
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-    
-<div id="header-big-imgs" data-num-img="2" data-img-src-1="/img/carti.jpg" data-img-desc-1="playboi carti, 2017" data-img-src-2="/img/black.jpg" data-img-desc-2="Arizona, 2017"></div>
-    <header class="header-section has-img">
-	    
-<div class="big-img intro-header" style="background-image: url(&quot;/img/black.jpg&quot;);">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>Derek Ogle</h1>
-		      
-            <hr class="small">
-            <span class="page-subheading">Fisheries &amp; Stats Professor / R Enthusiast</span>
-	  
-        </div>
-      </div>
-    </div>
-  </div>
-  <span class="img-desc" style="display: inline;">Smallmouth Bass</span>
-</div>
-
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>Derek Ogle</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">Fisheries &amp; Stats Professor / R Enthusiast</span>  
-		  
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</header>
-	  
-<script src="/js/main.js"></script>
-	  
+   
 	  
     <div class="post-entry-container">
       {% if post.image %}
