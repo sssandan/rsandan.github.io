@@ -5,7 +5,7 @@ title: Education
 subtitle: false
 bigimg: false
 ---
-<img style="float: right; margin: 0px 0px 150px 150px;" src="https://pbs.twimg.com/profile_images/2646487952/7fd9198d72becee7c50c457e5dfaea9e_400x400.jpeg" width="100" />##
+<img style="float: right; margin: 0px 0px 300px 300px;" src="https://pbs.twimg.com/profile_images/2646487952/7fd9198d72becee7c50c457e5dfaea9e_400x400.jpeg" width="100" />##
 
 
 
