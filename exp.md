@@ -5,7 +5,8 @@ title: Resume
 subtitle: ~ Work Experience ~
 bigimg: false
 ---
-						                                
+****[resume.pdf](google.com)
+
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
 - delivered mathematical instruction to students using the Mathnasium method.
 - provided quality customer service through an expert approach that is personal and prescriptive,  		attending to each individual student’s needs. 
