@@ -12,3 +12,7 @@ bigimg:
   - "/img/painting.png"
 ---
 
+
+<div style="text-align:center">
+<strong> "I can do all things through Christ who strengthens me." </strong> &nbsp;&nbsp; 
+</div>
