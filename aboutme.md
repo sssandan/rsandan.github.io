@@ -23,7 +23,6 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 100%;
-  height: 400px;
   position: relative;
   margin: auto;
 }
