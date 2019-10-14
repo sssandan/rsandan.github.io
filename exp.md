@@ -5,8 +5,6 @@ title: Resume
 subtitle: ~ Work Experience ~
 bigimg: false
 ---
-****[resume.pdf](/resume-up-to-date.pdf)
-
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
 - delivered mathematical instruction to students using the Mathnasium method.
 - provided quality customer service through an expert approach that is personal and prescriptive,  		attending to each individual student’s needs. 
@@ -30,11 +28,6 @@ bigimg: false
 - Handled cash and card transactions at register.
 
 					
-                    
-                    
-
-
-
 
 | **References** | Position | _Contact_ |
 | :------ |:-----: | :-----: |
@@ -42,3 +35,6 @@ bigimg: false
 | _Valerie Munoz_ | Supervisor @ Starbucks | Email: valerie.munoz@vanguard.edu |
 | _Joey Maguliman_ | Supervisor / Hiring Manager @ UNIQLO | Email: j.maguliman@icloud.com |
 | _Victoria Cobos_ | Supervisor @ Le Cafe Du Parc | Email: victoriaecobos@gmail.com |
+
+
+[resume.pdf](/resume-up-to-date.pdf)
