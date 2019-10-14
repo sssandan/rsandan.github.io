@@ -31,8 +31,10 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
+  width: 100%
+  height: auto
   background-color: #f2f2f2;
-  padding: 20px;
+  padding: 10px
 }
 </style>
 </head>
