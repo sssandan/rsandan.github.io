@@ -7,6 +7,6 @@ use-site-title: true
 published: true
 bigimg:
   - "/img/meandthebros.jpg" : "The Getty Villa"
-  - "/img/mathnasium2.jpg" : "Mathnasium Event"
+  - "/img/mathnasium2.JPG" : "Mathnasium Event"
 ---
 
