@@ -6,7 +6,7 @@ subtitle: ~ Work Experience ~
 bigimg: false
 ---
 <div style="text-align:center">    
-  <a href="/resume-up-to-date.pdf">click here to see the PDF version!</a>
+  <a href="/Resume up-to-date.pdf">click here to see the PDF version!</a>
 </div>
 
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
