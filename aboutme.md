@@ -7,7 +7,6 @@ bigimg:
   - /img/meandthebros.jpg: 'My brothers and I @ Getty Villa, Spring 2019'
   - /img/mathnasium2.JPG: 'Mathnasium Event, Summer 2019'
   - /img/astroworld.jpg: 'Some friends and I at a concert, December 2019'
-  - /img/me-jumping.jpg: 'me.. jumping, Spring 2019'
 ---
 
 
