@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: Student @ Orange Coast College | Instructor @ Mathnasium
-css: "/css/index.css"
+subtitle: Student | Instructor 
 use-site-title: true
 published: true
 bigimg:
-  - "/img/meandthebros.jpg" : "The Getty Villa"
-  - "/img/mathnasium2.JPG" : "Mathnasium Event"
+  - "/img/bgimage.png"
+  - "/img/black.jpg"
 ---
 
