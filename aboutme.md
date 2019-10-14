@@ -85,19 +85,13 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 2</div>
   <img src="/img/meandthebros.jpg" style="width:100%">
   <div class="text">I'm in the middle!</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/img/astroworld.jpg" style="width:100%">
-  <div class="text">Astroworld, December 2019</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">2 / 2</div>
   <img src="/img/flowerboy3.JPG" style="width:100%">
   <div class="text">Me at the Flower Fields, March 2019</div>
 </div>
@@ -129,7 +123,6 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 2 seconds
 }
 </script>
 
