@@ -5,7 +5,7 @@ title: Education
 subtitle: false
 bigimg: false
 ---
-Orange Coast College, Costa Mesa, CA
+[Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
 Current GPA: 3.69 (currently applying for transfer of fall 2020)
 
@@ -25,4 +25,4 @@ Relevant Coursework:
 Planned for Spring 2020: 
 - Introduction to Linear Algebra and Differential Equations 
 - Physics III: Modern 
-- Data Structures 
+- Data Structures
