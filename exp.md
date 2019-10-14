@@ -5,7 +5,7 @@ title: Resume
 subtitle: ~ Work Experience ~
 bigimg: false
 ---
-[(click here to see the pdf version)](/resume-up-to-date.pdf)
+<center>[(click here to see the pdf version)](/resume-up-to-date.pdf)</center>
 
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
 - delivered mathematical instruction to students using the Mathnasium method.
