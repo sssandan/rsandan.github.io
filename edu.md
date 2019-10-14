@@ -7,6 +7,8 @@ bigimg: false
 ---
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
+<img style="float: right; margin: 0px 0px 15px 15px;" src="https://pbs.twimg.com/profile_images/2646487952/7fd9198d72becee7c50c457e5dfaea9e_400x400.jpeg" width="100" />
+
 Current GPA: 3.69 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
