@@ -19,10 +19,10 @@ Relevant Coursework:
 - Calculus 3 (*in progress*)
 - Physics 2: Electricity and Magnetism (*in progress*)
 - C++ Programming 1
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="500" />
 - Calculus 1
 - Calculus 2
 - C++ Programming 2
-<img style="float: right; margin: 0px 0px 50px 50px;" src="/img/educationOCC.png" width="400" />
 - Software Engineering
 - Python Programming
 - Java Programming 
