@@ -31,16 +31,18 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  width: 100%
-  height: auto
+  width: 100%;
+  height: auto;
+  margin: auto auto;
   background-color: #f2f2f2;
-  padding: 10px
+  padding: 10px;
+  
 }
 </style>
 </head>
 <body>
 
-<h3>Contact Form</h3>
+<h3>Send me something!</h3>
 
 <div class="container">
   <form action="/action_page.php">
