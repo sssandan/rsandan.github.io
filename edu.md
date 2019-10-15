@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Education
+title: Go Pirates!
 subtitle: false
 bigimg: false
 ---
