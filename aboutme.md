@@ -9,7 +9,9 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 
 <div style="text-align:center">    
   <i>Some quick things about me:</i>
+  <i>   </i>
 </div>
+
 
 - I've lived in New Jersey, California, and the Philippines
 - I love playing drums and mixing music in my free time
