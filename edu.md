@@ -27,10 +27,8 @@ Relevant Coursework:
 - Java Programming 
 - Physics 1: Mechanics
 
-![occEducation](/img/educationOCC.png)
 
-
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="200" />
+<img style="float: right; margin: 0px 0px 50px 50px;" src="/img/educationOCC.png" width="200" />
 Planned for Spring 2020: 
 - Introduction to Linear Algebra and Differential Equations 
 - Physics III: Modern 
