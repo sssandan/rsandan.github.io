@@ -45,7 +45,7 @@ input[type=submit]:hover {
 <h3>Send me something!</h3>
 
 <div class="container">
-  <form action="/action_page.php">
+  <form action="http://sssandan.github.io/contact.php">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
@@ -64,3 +64,5 @@ input[type=submit]:hover {
 
 </body>
 </html>
+
+
