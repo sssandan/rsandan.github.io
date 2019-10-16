@@ -57,13 +57,8 @@ input[type=submit]:hover {
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="What's on your mind?" style="height:200px"></textarea>
-    <button onclick="setTimeout(myFunction, 500);">Submit</button>
-<script>
-function myFunction() {
-  alert('Got it!');
-}
-</script>
-    
+
+    <input type="submit" value="Submit">
     
   </form>
 </div>
