@@ -6,7 +6,7 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
-> #### findyourway, Maps Mobile Application (October 4 - 6, 2019)
+> #### [findyourway](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), Maps Mobile Application (October 4 - 6, 2019)
 >
 > - using the same core for findyourway, we revamped it to be a full-fledged mobile application.
 > - made during the AT&T 5G Hackathon also hosted by Samsung and IBM
@@ -38,4 +38,3 @@ use-site-title: false
 > #### [NBA Quiz](https://github.com/sssandan/NBA-Quiz), iOS Swift Application (Summer 2019) 
 > - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning Swift through an Udemy iOS course, I was able to create an NBA Trivia app. 
 > - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc).
-
