@@ -39,7 +39,12 @@ use-site-title: false
 > - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning Swift through an Udemy iOS course, I was able to create an NBA Trivia app. 
 > - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc).
 
-<video width="320" height="240" controls>
+<center>
+  
+<video width="500" height="750" controls>
   <source src="/img/nbaquiz.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+</center>
+
