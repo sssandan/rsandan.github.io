@@ -32,7 +32,15 @@ use-site-title: false
 > #### [GPA Calculator](https://github.com/sssandan/GPA-Calculator), Java Program (Fall 2018) 
 > - Using BlueJ (Java Integrated Development Environment), I created a program that can calculate your Grade Point Average given the letter grade and the amount of units for each grade.
 
-![gpaCalc](https://i.ibb.co/L9Sj5kG/screenshot-Of-GPACalc.png)
+
+<center>
+  
+<video width="800" height="350" controls>
+  <source src="/img/gpaCalc1.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</center>
 
 
 > #### [NBA Quiz](https://github.com/sssandan/NBA-Quiz), iOS Swift Application (Summer 2019) 
@@ -47,4 +55,3 @@ use-site-title: false
 </video>
 
 </center>
-
