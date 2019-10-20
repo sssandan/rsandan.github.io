@@ -10,7 +10,13 @@ bigimg:
   - /img/macbg2.jpg
   - /img/background.png
   - /img/mountains.png
-  - /img/blocks.png
+  - /img/marble.png	
+  - /img/dope.jpg	
+  - /img/aurora.jpg	
+  - /img/space.jpg	
+  - /img/starry3.jpg	
+  - /img/pinteresty.jpg	
+  - /img/starry.jpg
 ---
 
 
