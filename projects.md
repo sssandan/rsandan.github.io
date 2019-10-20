@@ -17,16 +17,18 @@ use-site-title: false
 > - used git to manage source code and github to store repositories.
 
 
-> #### [findyourway](https://github.com/sssandan/findyourway), Python Program (Summer 2019) 
->
-> - In python, I learned a lot about dictionaries and parsing. By utilizing MapQuest's API, 
-        	I created a program that can give 5 things (given at least two addresses):
-> - Directions
-> - Latitude and Longitude
-> - Total Time
-> - Total Distance
-> - Elevation
-> - Working on fully designed user-interface using tkinter
+> #### [NBA Quiz](https://github.com/sssandan/NBA-Quiz), iOS Swift Application (Summer 2019) 
+> - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning Swift through an Udemy iOS course, I was able to create an NBA Trivia app. 
+> - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc).
+
+<center>
+  
+<video width="500" height="750" controls>
+  <source src="/img/nbaquiz.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</center>
 
 
 > #### [GPA Calculator](https://github.com/sssandan/GPA-Calculator), Java Program (Fall 2018) 
@@ -42,16 +44,17 @@ use-site-title: false
 
 </center>
 
+> #### [findyourway](https://github.com/sssandan/findyourway), Python Program (Summer 2019) 
+>
+> - In python, I learned a lot about dictionaries and parsing. By utilizing MapQuest's API, 
+        	I created a program that can give 5 things (given at least two addresses):
+> - Directions
+> - Latitude and Longitude
+> - Total Time
+> - Total Distance
+> - Elevation
+> - Working on fully designed user-interface using tkinter
 
-> #### [NBA Quiz](https://github.com/sssandan/NBA-Quiz), iOS Swift Application (Summer 2019) 
-> - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning Swift through an Udemy iOS course, I was able to create an NBA Trivia app. 
-> - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc).
 
-<center>
-  
-<video width="500" height="750" controls>
-  <source src="/img/nbaquiz.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-</center>
+
