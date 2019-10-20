@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: Student | Instructor 
+subtitle: Student | Instructor
 use-site-title: true
 published: true
 bigimg:
-  - "/img/provider.jpg"
-  - "/img/macbg1.jpg"
-  - "/img/macbg2.jpg"
+  - /img/provider.jpg
+  - /img/macbg1.jpg
+  - /img/macbg2.jpg
+  - /img/background.png
 ---
 
 
