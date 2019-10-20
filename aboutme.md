@@ -10,6 +10,6 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 *Some quick things I'm up to:*
 - I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team)
 - I volunteer as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp)
-- Learn more about me [here!](sssandan.github.io/moreaboutme)
+- Learn more about me [here!](/moreaboutme)
 
 <div class='embedsocial-instagram' data-ref="7bd09daf4fb03064c3d827027f8d23115e663b9e"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
