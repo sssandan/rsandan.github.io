@@ -9,6 +9,8 @@ bigimg:
   - /img/macbg1.jpg
   - /img/macbg2.jpg
   - /img/background.png
+  - /img/mountains.png
+  - /img/blocks.png
 ---
 
 
