@@ -6,7 +6,7 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
-> #### [findyourway](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), Maps Mobile Application (October 4 - 6, 2019)
+> #### [findyourway](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T 5G Hackathon Maps Mobile Application (October 4 - 6, 2019)
 >
 > - using the same core for findyourway, we revamped it to be a full-fledged mobile application.
 > - made during the AT&T 5G Hackathon also hosted by Samsung and IBM
@@ -54,7 +54,3 @@ use-site-title: false
 > - Total Distance
 > - Elevation
 > - Working on fully designed user-interface using tkinter
-
-
-
-
