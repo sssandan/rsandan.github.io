@@ -6,14 +6,14 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
-> #### [findyourway](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T 5G Hackathon Maps Mobile Application (October 4 - 6, 2019)
->
+> #### [Maps](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T 5G Hackathon Maps Mobile Application (October 4 - 6, 2019)
+> - (github repositories are in progress)
 > - using the same core for findyourway, we revamped it to be a full-fledged mobile application.
-> - made during the AT&T 5G Hackathon also hosted by Samsung and IBM
+> - in progress to be on the Google Play store.
 > - Project Manager and Backend Developer for Maps application.
-> - used ZenHub to keep team project organized and on track (team of 6). 
+> - used ZenHub to keep team project organized and on track (team of 4). 
 > - used Django as the framework for my python program (findyourway).
-> - utlized Heroku to deploy, manage, and scale the app. 
+> - used Heroku to deploy, manage, and scale the app. 
 > - used git to manage source code and github to store repositories.
 
 
