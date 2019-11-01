@@ -30,6 +30,5 @@ Relevant Coursework:
 
 Planned for Spring 2020: 
 - Introduction to Linear Algebra and Differential Equations 
-- Physics III: Modern 
+- Boolean Algebra & Logic 
 - Data Structures
-- Computer Architecture
