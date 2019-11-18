@@ -12,7 +12,7 @@ bigimg: false
 
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
-Current GPA: 3.69 (currently applying for transfer of fall 2020)
+Current GPA: 3.7 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
 - Discrete Structures (*in progress*)
