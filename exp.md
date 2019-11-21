@@ -1,12 +1,15 @@
 ---
 layout: page
 published: true
-title: Resume
+title: Work Experience
 subtitle: ~ Work Experience ~
 bigimg: false
 ---
 <div style="text-align:center">    
   <a href="/resume.pdf">click here to see the PDF version!</a>
+</div>
+<div style="text-align:center">    
+  <a href="/internships.pdf">Resume for Internships</a>
 </div>
 
 **Instructor** @ Mathnasium of Laguna Niguel (October 2018 - Present)
