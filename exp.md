@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Work Experience
+title: Resume
 subtitle: ~ Work Experience ~
 bigimg: false
 ---
