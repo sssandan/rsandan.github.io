@@ -10,7 +10,7 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 *Some quick things I'm up to:*
 - I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team)
 - I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp)
-- competing in a program called NCAS, trying to land this [NASA onsite experience](https://nas.okstate.edu/ncas/) in the summer of 2020. 
+- competing in a program called NCAS, trying to land this [NASA onsite experience](https://nas.okstate.edu/ncas/) in the summer of 2020. (update December 2019: LANDED IT!)
 
 Click [here!](/moreaboutme) if you want to learn more about me. Also, here's some flicks of me from my instagram!
 
