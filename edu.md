@@ -15,9 +15,9 @@ bigimg: false
 Current GPA: 3.7 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
-- Discrete Structures (*in progress*)
-- Calculus 3 (*in progress*)
-- Physics 2: Electricity and Magnetism (*in progress*)
+- Discrete Structures
+- Calculus 3
+- Physics 2: Electricity and Magnetism
 - C++ Programming 1 and 2
 <img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="500" />
 - Calculus 1 and 2
@@ -28,5 +28,5 @@ Relevant Coursework:
 
 Planned for Spring 2020: 
 - Introduction to Linear Algebra and Differential Equations 
-- Boolean Algebra & Logic 
+- Computer Architecture
 - Data Structures
