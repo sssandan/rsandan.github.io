@@ -19,14 +19,20 @@ Relevant Coursework:
 - Calculus 3
 - Physics 2: Electricity and Magnetism
 - C++ Programming 1 and 2
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="500" />
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="400" />
 - Calculus 1 and 2
 - Software Engineering
 - Python Programming
 - Java Programming 
 - Physics 1: Mechanics
 
+
+
+
+
+
 Planned for Spring 2020: 
 - Introduction to Linear Algebra and Differential Equations 
 - Computer Architecture
 - Data Structures
+- Physics 3: Modern
