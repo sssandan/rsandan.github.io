@@ -27,9 +27,6 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
-<p>Float images side by side:</p>
-
 <div class="clearfix">
   <div class="img-container">
   <img src="/img/mathnasium.jpg" alt="Italy" style="width:100%">
