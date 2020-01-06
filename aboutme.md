@@ -40,7 +40,7 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
   <img src="/img/mathnasium.jpg" alt="Italy" style="width:100%">
   </div>
   <div class="img-container">
-  <img src="/img/ncas.png" alt="Forest" style="float: none; margin: 0px 0px 25px 25px;">
+  <img src="/img/ncas.png" alt="Forest" style="width: 75%">
   </div>
   <div class="img-container">
   <img src="/img/uci.png" alt="Mountains" style="width:100%">
