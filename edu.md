@@ -7,6 +7,8 @@ bigimg: false
 ---
 <img style="float: right; margin: 0px 0px 15px 15px;" src="https://pbs.twimg.com/profile_images/2646487952/7fd9198d72becee7c50c457e5dfaea9e_400x400.jpeg" width="200" />
 
+<img style="float: none; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
+
 
 
 
@@ -35,4 +37,3 @@ Planned for Spring 2020:
 - Computer Architecture
 - Data Structures
 
-<img style="float: none; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
