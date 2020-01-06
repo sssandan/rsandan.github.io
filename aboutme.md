@@ -23,7 +23,7 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 }
 
 .img-container {
-  float: center;
+  float: right;
   width: 33.33%;
   padding: 5px;
 }
