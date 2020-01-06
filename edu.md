@@ -36,6 +36,4 @@ Planned for Spring 2020:
 - Data Structures
 - Physics 3: Modern
 
-<img style="float: right; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
-
-
+<img style="float: none; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
