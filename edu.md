@@ -12,22 +12,22 @@ bigimg: false
 
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="400" />
+
 Current GPA: 3.7 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
 - Discrete Structures
-- Calculus 3
-- Physics 2: Electricity and Magnetism
-- C++ Programming 1 and 2
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="400" />
-- Calculus 1 and 2
 - Software Engineering
 - Python Programming
 - Java Programming 
+- Calculus 3
+- Calculus 2
+- Calculus 1
+- C++ Programming 2
+- C++ Programming 1
+- Physics 2: Electricity and Magnetism
 - Physics 1: Mechanics
-
-
-
 
 
 
