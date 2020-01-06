@@ -23,7 +23,7 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 }
 
 .img-container {
-  float: right;
+  float: left;
   width: 33.33%;
   padding: 5px;
 }
@@ -40,7 +40,7 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
   <img src="/img/mathnasium.jpg" alt="Italy" style="width:100%">
   </div>
   <div class="img-container">
-  <img src="/img/ncas.png" alt="Forest" style="width:75%">
+  <img src="/img/ncas.png" alt="Forest" style="float: none; margin: 0px 0px 20px 25px;">
   </div>
   <div class="img-container">
   <img src="/img/uci.png" alt="Mountains" style="width:100%">
