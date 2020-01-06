@@ -12,7 +12,6 @@ bigimg: false
 
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/educationOCC.png" width="400" />
 
 Current GPA: 3.7 (currently applying for transfer of fall 2020)
 
@@ -36,3 +35,7 @@ Planned for Spring 2020:
 - Computer Architecture
 - Data Structures
 - Physics 3: Modern
+
+<img style="float: right; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
+
+
