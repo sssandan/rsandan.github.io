@@ -40,25 +40,27 @@ input[type=submit]:hover {
 }
 </style>
 </head>
+  
+  
 <body>
 
 <h3>Send me something!</h3>
 
 <div class="container">
-  <form action="http://sssandan.github.io/contact.php">
+  <form action="https://formspree.io/rsandan@student.cccd.edu">
     <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <input type="text" id="fname" name="firstname" placeholder="Your name.." required><br>
 
     <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.." required><br>
 
  <label for="email">Email</label>
-    <input type="text" id="email" name="email" placeholder="Type in your email..">
+    <input type="text" id="email" name="email" placeholder="Type in your email.." required><br>
 
     <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="What's on your mind?" style="height:200px"></textarea>
+    <textarea id="subject" name="subject" placeholder="What's on your mind?" style="height:200px"></textarea><br>
 
-    <input type="submit" value="Submit">
+    <input type="submit" class="Submit" value="Submit">
     
   </form>
 </div>
