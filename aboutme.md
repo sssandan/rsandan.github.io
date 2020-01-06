@@ -5,12 +5,19 @@ subtitle: The Essentials
 published: true
 bigimg: false
 ---
-[brothers](/img/meandthebros.jpg)
+![brothers](/img/meandthebros.jpg?raw=true)
 
 
 Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Cal State for computer science in the fall of 2020. My dream is to work and travel for the NBA alongside a team doing something Computer Science related like a data scientist or statistician. Right now I’m looking for a company where I can apply what I learn in the classroom into applications that matter and make a difference. I'm looking for an internship that can refine my skills, as well as teach me new ones.
 
+*Some quick things I'm up to:*
+- I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team) 
+- I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp) 
+- competing in a program called NCAS, trying to land this [NASA onsite experience](https://nas.okstate.edu/ncas/) in the summer of 2020. (update December 2019: LANDED IT!)
 <style>
+  
+  
+  
 * {
   box-sizing: border-box;
 }
@@ -40,10 +47,6 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
   </div>
 </div>
 
-*Some quick things I'm up to:*
-- I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team) 
-- I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp) 
-- competing in a program called NCAS, trying to land this [NASA onsite experience](https://nas.okstate.edu/ncas/) in the summer of 2020. (update December 2019: LANDED IT!)
 
 Click [here!](/moreaboutme) if you want to learn more about me. Also, here's some flicks of me from my instagram!
 
