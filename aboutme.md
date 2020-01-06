@@ -7,6 +7,41 @@ bigimg: false
 ---
 Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Cal State for computer science in the fall of 2020. My dream is to work and travel for the NBA alongside a team doing something Computer Science related like a data scientist or statistician. Right now I’m looking for a company where I can apply what I learn in the classroom into applications that matter and make a difference. I'm looking for an internship that can refine my skills, as well as teach me new ones.
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>Float images side by side:</p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="/img/mathnasium.jpg" alt="Italy" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="/img/ncas.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="/img/uci.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 *Some quick things I'm up to:*
 - I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team) <img style="float: right; margin: 0px 0px 5px 5px;" src="/img/mathnasium.jpg" width="200" />
 - I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp) <img style="float: right; margin: 0px 0px 5px 5px;" src="/img/uci.png" width="100" />
