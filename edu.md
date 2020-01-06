@@ -20,13 +20,13 @@ Relevant Coursework:
 - Software Engineering
 - Python Programming 1
 - Java Programming 1
-- Calculus 3: Multivariable 
+- Calculus 3
 - Calculus 2
 - Calculus 1
 - C++ Programming 2
 - C++ Programming 1
-- Physics 2: Electricity and Magnetism
-- Physics 1: Mechanics
+- Calculus based Physics: Electricity and Magnetism
+- Calculus based Physics: Mechanics
 
 
 
