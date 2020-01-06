@@ -18,9 +18,9 @@ Current GPA: 3.7 (currently applying for transfer of fall 2020)
 Relevant Coursework:
 - Discrete Structures
 - Software Engineering
-- Python Programming
-- Java Programming 
-- Calculus 3
+- Python Programming 1
+- Java Programming 1
+- Calculus 3: Multivariable 
 - Calculus 2
 - Calculus 1
 - C++ Programming 2
@@ -34,6 +34,5 @@ Planned for Spring 2020:
 - Introduction to Linear Algebra and Differential Equations 
 - Computer Architecture
 - Data Structures
-- Physics 3: Modern
 
 <img style="float: none; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
