@@ -24,15 +24,13 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
   display: table;
 }
 </style>
-</head>
-<body>
 
 <div class="clearfix">
   <div class="img-container">
   <img src="/img/mathnasium.jpg" alt="Italy" style="width:100%">
   </div>
   <div class="img-container">
-  <img src="/img/ncas.png" alt="Forest" style="width:100%">
+  <img src="/img/ncas.png" alt="Forest" style="width:75%">
   </div>
   <div class="img-container">
   <img src="/img/uci.png" alt="Mountains" style="width:100%">
@@ -40,10 +38,10 @@ Hello! I’m Ryan. I go to Orange Coast College aiming to transfer to a UC or Ca
 </div>
 
 *Some quick things I'm up to:*
-- I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team) <img style="float: right; margin: 0px 0px 5px 5px;" src="/img/mathnasium.jpg" width="200" />
-- I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp) <img style="float: right; margin: 0px 0px 5px 5px;" src="/img/uci.png" width="100" />
+- I currently work as an Instructor at [Mathnasium](https://www.mathnasium.com/lagunaniguel/our-team) 
+- I work as the Assistant Coach for [UCI's Men's Basketball Club](https://www.campusrec.uci.edu/club/basketball-men.asp) 
 - competing in a program called NCAS, trying to land this [NASA onsite experience](https://nas.okstate.edu/ncas/) in the summer of 2020. (update December 2019: LANDED IT!)
-<img style="float: right; margin: 0px 0px 5px 5px;" src="/img/ncas.png" width="100" />
+
 Click [here!](/moreaboutme) if you want to learn more about me. Also, here's some flicks of me from my instagram!
 
 <div class='embedsocial-instagram' data-ref="7bd09daf4fb03064c3d827027f8d23115e663b9e"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
