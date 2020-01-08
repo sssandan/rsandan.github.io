@@ -14,6 +14,7 @@ navbar-links:
   projects: "projects"
   resume: "exp"
   education: "edu"
+  skills: "skills"
   contact  : "contact"
  
 
