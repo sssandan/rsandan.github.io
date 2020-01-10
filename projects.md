@@ -63,3 +63,13 @@ use-site-title: false
 > - Total Distance
 > - Elevation
 > - Working on fully designed user-interface using tkinter
+
+
+
+Languages: C++, Java, Python, Swift
+
+Web/App Development: HTML, CSS, Javascript, PHP, Heroku, Django
+
+Other: Dr. Racket, Data Structures, Kaggle, ZenHub
+
+Integrated Development Environment (IDE): Visual Studio, CS50, Jupyter Notebook, BlueJ, XCode 10, Eclipse
