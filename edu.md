@@ -18,17 +18,17 @@ bigimg: false
 Current GPA: 3.7 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
-- Discrete Structures
-- Software Engineering
-- Python Programming 1
-- Java Programming 1
-- Calculus 3
-- Calculus 2
-- Calculus 1
-- C++ Programming 2
-- C++ Programming 1
-- Calculus based Physics: Electricity and Magnetism
-- Calculus based Physics: Mechanics
+- Discrete Structures (C)
+- Software Engineering (A)
+- Python Programming 1 (A)
+- Java Programming 1 (A)
+- Calculus 3 (B)
+- Calculus 2 (A)
+- Calculus 1 (AP Calc AB)
+- C++ Programming 2 (A)
+- C++ Programming 1 (B)
+- Calculus based Physics: Electricity and Magnetism (B)
+- Calculus based Physics: Mechanics (B)
 
 
 
