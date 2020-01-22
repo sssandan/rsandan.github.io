@@ -53,7 +53,7 @@ input[type=submit]:hover {
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
  <label for="email">Email</label>
-    <input type="text" id="email" name="email" placeholder="(OPTIONAL) Type in your email..">
+    <input type="text" id="email" name="email" placeholder="Type your email here!">
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="What's on your mind?" style="height:200px"></textarea>
