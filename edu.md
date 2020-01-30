@@ -18,6 +18,9 @@ bigimg: false
 Current GPA: 3.6 (currently applying for transfer of fall 2020)
 
 Relevant Coursework:
+- Introduction to Linear Algebra and Differential Equations (IP)
+- Computer Architecture (IP)
+- Data Structures (IP)
 - Discrete Structures 
 - Software Engineering 
 - Python Programming 1 
@@ -29,9 +32,3 @@ Relevant Coursework:
 - Calculus based Physics: Electricity and Magnetism
 - Calculus based Physics: Mechanics
 
-
-
-Planned for Spring 2020: 
-- Introduction to Linear Algebra and Differential Equations 
-- Computer Architecture
-- Data Structures
