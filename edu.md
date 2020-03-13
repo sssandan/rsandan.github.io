@@ -32,3 +32,8 @@ Relevant Coursework:
 - Calculus based Physics: Electricity and Magnetism
 - Calculus based Physics: Mechanics
 
+
+Extracurriculars:
+- Computer Science Club
+- Algorave Club
+
