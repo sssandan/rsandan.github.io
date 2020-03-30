@@ -6,6 +6,14 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
+Languages (most familiar to least): C++, Python, Java, HTML, CSS, Javascript, Swift, Bash, PHP
+Operating Systems: Windows OS, Mac OS, Ubuntu, Linux
+IDE’s: Visual Studio, CS50, Jupyter Notebook, BlueJ, XCode, Mac Terminal
+Other: Data Structures, git, Github, Kaggle, ZenHub, SQLite, Django, Heroku, Dr. Racket
+
+Online Certifications:
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kidcudihumming/javascript-algorithms-and-data-structures) Developer Certifications, freeCodeCamp.org
+
 > #### [Maps](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T Hackathon Maps Mobile Application (October 4 - 6, 2019)
 > - (github repositories are in progress)
 > - using the same core for findyourway, we revamped it to be a mobile application.
@@ -66,10 +74,4 @@ use-site-title: false
 
 
 
-Languages: C++, Java, Python, Swift
 
-Web/App Development: HTML, CSS, Javascript, PHP, Heroku, Django
-
-Other: Dr. Racket, Data Structures, Kaggle, ZenHub
-
-Integrated Development Environment (IDE): Visual Studio, CS50, Jupyter Notebook, BlueJ, XCode 10, Eclipse
