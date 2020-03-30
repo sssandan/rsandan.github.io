@@ -7,8 +7,11 @@ bigimg: false
 use-site-title: false
 ---
 Languages (most familiar to least): C++, Python, Java, HTML, CSS, Javascript, Swift, Bash, PHP
+
 Operating Systems: Windows OS, Mac OS, Ubuntu, Linux
+
 IDE’s: Visual Studio, CS50, Jupyter Notebook, BlueJ, XCode, Mac Terminal
+
 Other: Data Structures, git, Github, Kaggle, ZenHub, SQLite, Django, Heroku, Dr. Racket
 
 Online Certifications:
