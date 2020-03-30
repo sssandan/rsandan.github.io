@@ -1,7 +1,6 @@
 ---
 layout: page
 published: true
-title: Projects and Skills
 subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
