@@ -8,3 +8,7 @@ bigimg: false
 Here are some videos to highlight my career dream:
 - [The NBA Data Scientist](https://www.youtube.com/watch?v=MpLHMKTolVw)
 - [The Math Behind Basketball's Wildest Moves (TED Talk)](https://www.youtube.com/watch?v=66ko_cWSHBU&t=3s)
+
+
+<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/7bce69bb564153baaef5188ee062eb9f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
