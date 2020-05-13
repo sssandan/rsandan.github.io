@@ -16,5 +16,4 @@ bigimg: false
 <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/66ko_cWSHBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 
-
-
+<a style="display: inline-block; border: 0; text-decoration: none;" href="http://vsco.co/isangdaan?utm_source=user_grid&utm_medium=user_website&utm_campaign=link_to_grid"><img style="width: 48px; height: 48px; margin: 0px;" src="http://assets.vsco.co/assets/images/assets/Logo_white_48.png" alt="VSCO Logo" /></a>
