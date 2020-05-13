@@ -4,7 +4,7 @@ published: true
 bigimg: false
 ---
 <center>
-<iframe width="300" height="600" src="/img/meandthebros.jpg" frameborder="0" ></iframe> </center>
+<iframe width="300" height="600" src="/img/meandthebros.jpg" ></iframe> </center>
 
 
 
