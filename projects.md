@@ -27,10 +27,10 @@ substitile: true
 
   
   <p></p>
-  <p></p>    <p></p>  
-   <p></p>
+  <p></p>    
+  <p></p>  
   <p></p>
-
+  <p></p>
   <p></p>
   <p></p>
   <p></p>
@@ -94,7 +94,7 @@ substitile: true
 
 
 | [Maps](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T Hackathon Maps Mobile Application (October 4 - 6, 2019)  |
-|:----------------------:|
+|----------------------|
 |- (github repositories are in progress)|
 | - In python, I learned a lot about dictionaries and parsing. By utilizing MapQuest's API, 
         	we created a mobile application that can give 5 things (given at least two addresses)|
@@ -124,7 +124,7 @@ substitile: true
 </center>
 
 | [GPA Calculator](https://github.com/sssandan/GPA-Calculator), Java Program (Fall 2018)|
-|:----------------------:|
+|----------------------|
 | - Using BlueJ (Java Integrated Development Environment), I created a program that can calculate your Grade Point Average given the letter grade and the amount of units for each grade. |
 
 <center>
