@@ -4,7 +4,16 @@ published: true
 subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
+substitile: true
 ---
+  <p></p>
+  <p></p>  
+   <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+<center>
+
 | Languages      |    IDE's        | Other  |
 |:-------------:|:-------------:| :-----:|
 | C++     | Visual Studio | Data Structures & Algorithms|
@@ -13,6 +22,9 @@ use-site-title: false
 | Swift | Jupyter Notebook |   Kaggle |
 | HTML/CSS/Javascript |  Mac Terminal |   git | 
 
+  
+  </center>
+  
   <p></p>
   <p></p>  
   <p></p>
