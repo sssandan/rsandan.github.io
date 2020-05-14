@@ -5,14 +5,13 @@ subtitle: ~ currently in progress ~
 bigimg: false
 use-site-title: false
 ---
-<center> | Languages      |    IDE's        | Other  |
+| Languages      |    IDE's        | Other  |
 |:-------------:|:-------------:| :-----:|
 | C++     | Visual Studio | Data Structures & Algorithms|
 | Python     |  XCode  |  Heroku |
 | Java | BlueJ |    Django |
 | Swift | Jupyter Notebook |   Kaggle |
 | HTML/CSS/Javascript |  Mac Terminal |   git | 
- </center>
 
 
 
@@ -20,10 +19,11 @@ use-site-title: false
 
 
 
-<center> | Online Certifications |
+
+| Online Certifications |
 |:----------------------:|
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kidcudihumming/javascript-algorithms-and-data-structures) Developer Certifications, freeCodeCamp.org |
-</center>
+
 
 
 
@@ -53,7 +53,7 @@ use-site-title: false
 
 
 
-<center>
+
 | [Maps](https://github.com/austin-keith-vigo/at-t-hackathon-back-end/issues), AT&T Hackathon Maps Mobile Application (October 4 - 6, 2019)  |
 |:----------------------:|
 |- (github repositories are in progress)|
@@ -65,7 +65,7 @@ use-site-title: false
 |- used Django as the framework for my python program (findyourway).|
 |- used Heroku to deploy, manage, and scale the app. |
 |- used git to manage source code and github to store repositories.|
-</center>
+
 
 
 
