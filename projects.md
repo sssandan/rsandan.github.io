@@ -21,7 +21,7 @@ use-site-title: false
 
 
 | Online Certifications |
-|:----------------------:|
+|----------------------|
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kidcudihumming/javascript-algorithms-and-data-structures) Developer Certifications, freeCodeCamp.org |
 
 
@@ -31,16 +31,17 @@ use-site-title: false
 
 
 | [NBA Quiz](https://github.com/sssandan/NBA-Quiz), iOS Swift Application (Summer 2019)|
-|:----------------------:|
+|----------------------|
 | - Test your NBA knowledge! How well do you know the players? The history? Come find out! Using XCode 10 and learning Swift through an Udemy iOS course, I was able to create an NBA Trivia app. |
-| - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc). |
+| - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc) |
 
 
 
 
 
 <center>
-  
+  <p></p>
+  <p></p>
 <video width="350" height="500" controls>
   <source src="/img/nbaquiz.mov" type="video/mp4">
   Your browser does not support the video tag.
@@ -71,12 +72,14 @@ use-site-title: false
 
 
 <center>
-  
+  <p></p>
+  <p></p>
 <video width="350" height="500" controls>
   <source src="/img/maps.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<p></p>
+  <p></p>
 </center>
 
 | [GPA Calculator](https://github.com/sssandan/GPA-Calculator), Java Program (Fall 2018)|
