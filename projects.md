@@ -13,9 +13,13 @@ use-site-title: false
 | Swift | Jupyter Notebook |   Kaggle |
 | HTML/CSS/Javascript |  Mac Terminal |   git | 
 
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p>
 
-
-
+  <p></p>
+  <p></p>
 
 
 
@@ -25,7 +29,12 @@ use-site-title: false
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kidcudihumming/javascript-algorithms-and-data-structures) Developer Certifications, freeCodeCamp.org |
 
 
-
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p>
 
 
 
@@ -36,7 +45,12 @@ use-site-title: false
 | - Working on adding options to choose between categories (NBA Players, Playoffs, Regular Season, etc) |
 
 
-
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p> 
+  <p></p>
+  <p></p>
 
 
 <center>
@@ -46,7 +60,12 @@ use-site-title: false
   <source src="/img/nbaquiz.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p>  
+  <p></p>
+  <p></p>
 </center>
 
 
@@ -72,7 +91,10 @@ use-site-title: false
 
 
 <center>
+  <p></p>  
   <p></p>
+  <p></p>
+  
   <p></p>
 <video width="350" height="500" controls>
   <source src="/img/maps.mov" type="video/mp4">
