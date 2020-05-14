@@ -6,15 +6,19 @@ bigimg: false
 use-site-title: false
 substitile: true
 ---
-  <p></p>
-  <p></p>  
-   <p></p>
-  <p></p> 
-  <p></p>  
-   <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
+ <center> <h2> ~ work in progress ~</h2> </center>
+ 
+ <center> <p> to do: add queue simulation project, work on data science projects for the summer, tinder bot project, and automate spotify project. </p> </center>
+ 
+ <p></p>
+ <p></p>  
+ <p></p>
+ <p></p> 
+ <p></p>  
+ <p></p>
+ <p></p>
+ <p></p>
+ <p></p>
 
 
 | Languages      |    IDE's        | Other  |
@@ -135,4 +139,3 @@ substitile: true
 </video>
 
 </center>
-
