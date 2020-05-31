@@ -2,6 +2,7 @@
 
 # Name of website
 title: Home
+url: "http://sssandan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Short description of your site
 description: Philippians 4:13
