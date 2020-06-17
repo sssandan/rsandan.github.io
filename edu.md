@@ -7,7 +7,7 @@ bigimg: false
 ---
 <img style="float: right; margin: 0px 0px 15px 15px;" src="https://pbs.twimg.com/profile_images/2646487952/7fd9198d72becee7c50c457e5dfaea9e_400x400.jpeg" width="200" />
 
-<img style="float: none; margin: 0px 0px 20px 25px;" src="/img/educationOCC.png" width="500" />
+<img style="float: none; margin: 0px 0px 20px 25px;" src="/img/occgrad.png" width="500" />
 
 
 
@@ -15,12 +15,12 @@ bigimg: false
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
 
-Current GPA: 3.6 (currently applying for transfer of fall 2020)
+Current GPA: 3.6 
 
 Relevant Coursework:
-- Introduction to Linear Algebra and Differential Equations (IP)
-- Computer Architecture (IP)
-- Data Structures (IP)
+- Introduction to Linear Algebra and Differential Equations
+- Computer Architecture
+- Data Structures
 - Discrete Structures 
 - Software Engineering 
 - Python Programming 1 
@@ -36,4 +36,3 @@ Relevant Coursework:
 Extracurriculars:
 - Computer Science Club
 - Algorave Club
-
