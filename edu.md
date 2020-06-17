@@ -15,8 +15,6 @@ bigimg: false
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
 
-Current GPA: 3.6 
-
 Relevant Coursework:
 - Introduction to Linear Algebra and Differential Equations
 - Computer Architecture
