@@ -10,12 +10,11 @@ bigimg: false
 <img style="float: none; margin: 0px 0px 20px 25px;" src="/img/occgrad.png" width="500" />
 
 
-
-
 [Orange Coast College](http://www.orangecoastcollege.edu/Pages/home.aspx), Costa Mesa, CA
 
 
-Relevant Coursework:
+<center> <p> Relevant Coursework: </p> </center>
+<center> <p> 
 - Introduction to Linear Algebra and Differential Equations
 - Computer Architecture
 - Data Structures
@@ -29,8 +28,6 @@ Relevant Coursework:
 - C++ Programming 1
 - Calculus based Physics: Electricity and Magnetism
 - Calculus based Physics: Mechanics
+  </p> </center>
 
 
-Extracurriculars:
-- Computer Science Club
-- Algorave Club
