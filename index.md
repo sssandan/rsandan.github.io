@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: Student | Instructor
+subtitle: Undergraduate Student @ UC Berkeley
 use-site-title: true
 published: true
 bigimg:
@@ -15,5 +15,5 @@ bigimg:
 
 
 <div style="text-align:center">
-<strong> Philippians 4:13 "I can do all things through Christ who strengthens me." </strong> &nbsp;&nbsp; 
+<strong> Black Lives Matter </strong> &nbsp;&nbsp; 
 </div>
