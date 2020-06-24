@@ -5,7 +5,7 @@ title: Home
 url: "http://sssandan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Short description of your site
-description: 
+description: black lives matter black lives matter black lives matter black lives matter black lives matter black lives matter black lives matter
 
 # --- Navigation bar options --- #
 
@@ -15,6 +15,7 @@ navbar-links:
   projects and skills: "projects"
   education: "edu"
   contact  : "contact"
+  
  
 
   
