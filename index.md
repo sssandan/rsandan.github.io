@@ -15,5 +15,5 @@ bigimg:
 
 
 <div style="text-align:center">
-<strong> Black Lives Matter </strong> &nbsp;&nbsp; 
+<strong> Philippians 4:13 "I can do all things through Christ who strengthens me"  </strong> &nbsp;&nbsp; 
 </div>
