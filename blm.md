@@ -1,8 +1,4 @@
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url='blacklivesmatters.carrd.co'" />
-  </head>
-  <body>
-    <p>Please follow <a href="blacklivesmatters.carrd.co">this link</a>.</p>
-  </body>
-</html>
+<meta charset="utf-8">
+<title>Redirecting to blacklivesmatters.carrd.co</title>
+<meta http-equiv="refresh" content="0; URL= https://blacklivesmatters.carrd.co/">
+<link rel="canonical" href="https://blacklivesmatters.carrd.co/">
