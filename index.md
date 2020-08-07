@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: 
+subtitle: undergrad student @ uc berkeley 
 use-site-title: true
 published: true
 bigimg:
