@@ -14,6 +14,4 @@ bigimg:
 ---
 
 
-<div style="text-align:center">
-<strong> probably listening to Frank Ocean  </strong> &nbsp;&nbsp; 
-</div>
+
