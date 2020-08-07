@@ -5,7 +5,7 @@ title: home
 url: "http://sssandan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Short description of your site
-description: black lives matter 
+description: Black Lives Matter 
 
 # --- Navigation bar options --- #
 
@@ -36,12 +36,12 @@ avatar: "/img/selfiep3.png"
 
 navbar-col: "#87657F"
 navbar-text-col: "#FEFEFE"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-children-col: "#87657F"
+page-col: "#87657F"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#87657F"
-footer-text-col: "#777777"
+footer-text-col: "#FEFEFE"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
