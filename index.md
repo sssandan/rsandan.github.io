@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: Undergraduate Student @ UC Berkeley
+subtitle: 
 use-site-title: true
 published: true
 bigimg:
@@ -14,4 +14,4 @@ bigimg:
 ---
 
 
-
+Water more important than gold
