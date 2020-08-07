@@ -42,7 +42,7 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h3>Send me something!</h3>
+<h3>Ask me anything!</h3>
 
 <div class="container">
   <form action="https://formspree.io/rsandan@student.cccd.edu"  method="POST">
