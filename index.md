@@ -15,5 +15,5 @@ bigimg:
 
 
 <div style="text-align:center">
-<strong> Philippians 4:13 "I can do all things through Christ who strengthens me"  </strong> &nbsp;&nbsp; 
+<strong> probably listening to Frank Ocean  </strong> &nbsp;&nbsp; 
 </div>
