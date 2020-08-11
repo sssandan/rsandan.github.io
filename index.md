@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: undergrad student @ uc berkeley 
+subtitle: data science @ uc berkeley '22
 use-site-title: true
 published: true
 bigimg:
