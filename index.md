@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryan Sandan
-subtitle: data science @ uc berkeley '22
+subtitle: intended data science major @ uc berkeley '22
 use-site-title: true
 published: true
 bigimg:
@@ -13,5 +13,4 @@ bigimg:
   - /img/starry.jpg
 ---
 
-
-<div style="background-color:black;"></div>
+<center> water more important than gold </center>
